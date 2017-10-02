@@ -1,0 +1,2 @@
+C:\Users\sharon\source\repos\FactorialExercise\FactorialExercise\obj\Debug\FactorialExercise.csprojResolveAssemblyReference.cache
+C:\Users\sharon\source\repos\FactorialExercise\FactorialExercise\obj\Debug\FactorialExercise.csproj.CoreCompileInputs.cache

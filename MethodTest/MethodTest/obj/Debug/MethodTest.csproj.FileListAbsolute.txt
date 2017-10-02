@@ -1,0 +1,7 @@
+C:\Users\sharon\source\repos\MethodTest\MethodTest\bin\Debug\MethodTest.exe.config
+C:\Users\sharon\source\repos\MethodTest\MethodTest\bin\Debug\MethodTest.exe
+C:\Users\sharon\source\repos\MethodTest\MethodTest\bin\Debug\MethodTest.pdb
+C:\Users\sharon\source\repos\MethodTest\MethodTest\obj\Debug\MethodTest.csprojResolveAssemblyReference.cache
+C:\Users\sharon\source\repos\MethodTest\MethodTest\obj\Debug\MethodTest.csproj.CoreCompileInputs.cache
+C:\Users\sharon\source\repos\MethodTest\MethodTest\obj\Debug\MethodTest.exe
+C:\Users\sharon\source\repos\MethodTest\MethodTest\obj\Debug\MethodTest.pdb

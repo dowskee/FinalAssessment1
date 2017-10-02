@@ -1,0 +1,7 @@
+C:\Users\sharon\source\repos\StringSplit\StringSplit\bin\Debug\StringSplit.exe.config
+C:\Users\sharon\source\repos\StringSplit\StringSplit\bin\Debug\StringSplit.exe
+C:\Users\sharon\source\repos\StringSplit\StringSplit\bin\Debug\StringSplit.pdb
+C:\Users\sharon\source\repos\StringSplit\StringSplit\obj\Debug\StringSplit.csprojResolveAssemblyReference.cache
+C:\Users\sharon\source\repos\StringSplit\StringSplit\obj\Debug\StringSplit.csproj.CoreCompileInputs.cache
+C:\Users\sharon\source\repos\StringSplit\StringSplit\obj\Debug\StringSplit.exe
+C:\Users\sharon\source\repos\StringSplit\StringSplit\obj\Debug\StringSplit.pdb

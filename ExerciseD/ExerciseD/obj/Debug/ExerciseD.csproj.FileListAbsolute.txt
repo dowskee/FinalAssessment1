@@ -1,0 +1,6 @@
+C:\Users\sharon\source\repos\ExerciseD\ExerciseD\bin\Debug\ExerciseD.exe.config
+C:\Users\sharon\source\repos\ExerciseD\ExerciseD\bin\Debug\ExerciseD.exe
+C:\Users\sharon\source\repos\ExerciseD\ExerciseD\bin\Debug\ExerciseD.pdb
+C:\Users\sharon\source\repos\ExerciseD\ExerciseD\obj\Debug\ExerciseD.csproj.CoreCompileInputs.cache
+C:\Users\sharon\source\repos\ExerciseD\ExerciseD\obj\Debug\ExerciseD.exe
+C:\Users\sharon\source\repos\ExerciseD\ExerciseD\obj\Debug\ExerciseD.pdb

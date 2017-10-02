@@ -1,0 +1,7 @@
+C:\Users\sharon\source\repos\TestControlGrade\TestControlGrade\bin\Debug\TestControlGrade.exe.config
+C:\Users\sharon\source\repos\TestControlGrade\TestControlGrade\bin\Debug\TestControlGrade.exe
+C:\Users\sharon\source\repos\TestControlGrade\TestControlGrade\bin\Debug\TestControlGrade.pdb
+C:\Users\sharon\source\repos\TestControlGrade\TestControlGrade\obj\Debug\TestControlGrade.csprojResolveAssemblyReference.cache
+C:\Users\sharon\source\repos\TestControlGrade\TestControlGrade\obj\Debug\TestControlGrade.csproj.CoreCompileInputs.cache
+C:\Users\sharon\source\repos\TestControlGrade\TestControlGrade\obj\Debug\TestControlGrade.exe
+C:\Users\sharon\source\repos\TestControlGrade\TestControlGrade\obj\Debug\TestControlGrade.pdb

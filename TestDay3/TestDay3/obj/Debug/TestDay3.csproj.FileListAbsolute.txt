@@ -1,0 +1,7 @@
+C:\Users\sharon\source\repos\TestDay3\TestDay3\bin\Debug\TestDay3.exe.config
+C:\Users\sharon\source\repos\TestDay3\TestDay3\bin\Debug\TestDay3.exe
+C:\Users\sharon\source\repos\TestDay3\TestDay3\bin\Debug\TestDay3.pdb
+C:\Users\sharon\source\repos\TestDay3\TestDay3\obj\Debug\TestDay3.csprojResolveAssemblyReference.cache
+C:\Users\sharon\source\repos\TestDay3\TestDay3\obj\Debug\TestDay3.csproj.CoreCompileInputs.cache
+C:\Users\sharon\source\repos\TestDay3\TestDay3\obj\Debug\TestDay3.exe
+C:\Users\sharon\source\repos\TestDay3\TestDay3\obj\Debug\TestDay3.pdb

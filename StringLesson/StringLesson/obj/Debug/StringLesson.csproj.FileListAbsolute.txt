@@ -1,0 +1,7 @@
+C:\Users\sharon\source\repos\StringLesson\StringLesson\bin\Debug\StringLesson.exe.config
+C:\Users\sharon\source\repos\StringLesson\StringLesson\bin\Debug\StringLesson.exe
+C:\Users\sharon\source\repos\StringLesson\StringLesson\bin\Debug\StringLesson.pdb
+C:\Users\sharon\source\repos\StringLesson\StringLesson\obj\Debug\StringLesson.csprojResolveAssemblyReference.cache
+C:\Users\sharon\source\repos\StringLesson\StringLesson\obj\Debug\StringLesson.csproj.CoreCompileInputs.cache
+C:\Users\sharon\source\repos\StringLesson\StringLesson\obj\Debug\StringLesson.exe
+C:\Users\sharon\source\repos\StringLesson\StringLesson\obj\Debug\StringLesson.pdb

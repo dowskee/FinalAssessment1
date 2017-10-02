@@ -1,0 +1,7 @@
+C:\Users\sharon\source\repos\TestMenu\TestMenu\bin\Debug\TestMenu.exe.config
+C:\Users\sharon\source\repos\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\sharon\source\repos\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\sharon\source\repos\TestMenu\TestMenu\obj\Debug\TestMenu.csprojResolveAssemblyReference.cache
+C:\Users\sharon\source\repos\TestMenu\TestMenu\obj\Debug\TestMenu.csproj.CoreCompileInputs.cache
+C:\Users\sharon\source\repos\TestMenu\TestMenu\obj\Debug\TestMenu.exe
+C:\Users\sharon\source\repos\TestMenu\TestMenu\obj\Debug\TestMenu.pdb

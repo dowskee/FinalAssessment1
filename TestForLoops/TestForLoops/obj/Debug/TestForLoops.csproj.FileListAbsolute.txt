@@ -1,0 +1,7 @@
+C:\Users\sharon\source\repos\TestForLoops\TestForLoops\bin\Debug\TestForLoops.exe.config
+C:\Users\sharon\source\repos\TestForLoops\TestForLoops\bin\Debug\TestForLoops.exe
+C:\Users\sharon\source\repos\TestForLoops\TestForLoops\bin\Debug\TestForLoops.pdb
+C:\Users\sharon\source\repos\TestForLoops\TestForLoops\obj\Debug\TestForLoops.csprojResolveAssemblyReference.cache
+C:\Users\sharon\source\repos\TestForLoops\TestForLoops\obj\Debug\TestForLoops.csproj.CoreCompileInputs.cache
+C:\Users\sharon\source\repos\TestForLoops\TestForLoops\obj\Debug\TestForLoops.exe
+C:\Users\sharon\source\repos\TestForLoops\TestForLoops\obj\Debug\TestForLoops.pdb

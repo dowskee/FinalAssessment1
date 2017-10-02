@@ -1,0 +1,6 @@
+C:\Users\sharon\source\repos\TestForLoopsDay3\TestForLoopsDay3\bin\Debug\TestForLoopsDay3.exe.config
+C:\Users\sharon\source\repos\TestForLoopsDay3\TestForLoopsDay3\bin\Debug\TestForLoopsDay3.exe
+C:\Users\sharon\source\repos\TestForLoopsDay3\TestForLoopsDay3\bin\Debug\TestForLoopsDay3.pdb
+C:\Users\sharon\source\repos\TestForLoopsDay3\TestForLoopsDay3\obj\Debug\TestForLoopsDay3.csproj.CoreCompileInputs.cache
+C:\Users\sharon\source\repos\TestForLoopsDay3\TestForLoopsDay3\obj\Debug\TestForLoopsDay3.exe
+C:\Users\sharon\source\repos\TestForLoopsDay3\TestForLoopsDay3\obj\Debug\TestForLoopsDay3.pdb

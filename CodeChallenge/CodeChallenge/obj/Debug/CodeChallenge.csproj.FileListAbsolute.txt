@@ -1,0 +1,6 @@
+C:\Users\sharon\source\repos\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe.config
+C:\Users\sharon\source\repos\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe
+C:\Users\sharon\source\repos\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.pdb
+C:\Users\sharon\source\repos\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\sharon\source\repos\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.exe
+C:\Users\sharon\source\repos\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.pdb
